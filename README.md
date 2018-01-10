@@ -1,5 +1,5 @@
 # todo-app
-Inspired from :
+Inspired from : https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2
  VueJS2Example Some mistakes in the tutorial but fixed in my learning
 
 > A Vue.js project
