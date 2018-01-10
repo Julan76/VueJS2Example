@@ -1,4 +1,6 @@
 # todo-app
+Inspired from :
+ VueJS2Example Some mistakes in the tutorial but fixed in my learning
 
 > A Vue.js project
 
@@ -28,4 +30,3 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# VueJS2Example Some mistakes in the tutorial but fixed in my learning
